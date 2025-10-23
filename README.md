@@ -22,9 +22,7 @@
   <img alt="vscode" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![Animasi ular]( https://raw.githubusercontent.com/{znalfarel}/{znalfarel}/output/github-contribution-grid-snake-dark.svg )
 
 
 <h3>Where to find me?</h3>
